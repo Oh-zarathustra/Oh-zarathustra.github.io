@@ -10,7 +10,7 @@ layout: post
 
 对我来说，能够记录自己的成长轨迹（假设能坚持下去：））是博客最大的价值，如果还能在这一基础上帮助到其他人，更是不胜荣幸。
 
-####感谢
+#### 感谢
 
 这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于[Peiwen Lu](https://github.com/P233)的 [3-Jekyll](https://github.com/P233/3-Jekyll)。
 
