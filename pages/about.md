@@ -12,6 +12,6 @@ layout: post
 
 #### 感谢
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于[Peiwen Lu](https://github.com/P233)的 [3-Jekyll](https://github.com/P233/3-Jekyll)。
+这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于[Peiwen Lu](https://github.com/P233)的 [3-Jekyll](https://github.com/P233/3-Jekyll),主题改进基于[林安亚的博客](http://painterlin.com).
 
 我博客的源码托管在[Github](https://github.com/oh-zarathustra/oh-zarathustra.github.io)上，欢迎以 issue 的形式提出改进建议。
