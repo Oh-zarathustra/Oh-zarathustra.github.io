@@ -1,3 +1,5 @@
+// 用于修改图标显示，可以在iconmoon这个开源图标官网自行增加图标的样式并选择自己喜欢的图标
+
 @font-face {
   font-family: 'icomoon';
   src:url('../assets/icon/icomoon.eot?-oxan25');
@@ -57,6 +59,8 @@
   content: "\e085";
 }
 
+
+
 %icon-left {
   content: "\e094";
 }
@@ -64,6 +68,9 @@
 %icon-right {
   content: "\e095";
 }
+
+
+
 
 %icon-mail {
   content: "\ea86";
